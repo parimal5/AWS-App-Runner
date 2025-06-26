@@ -1,0 +1,12 @@
+{
+  "name": "quick-deployer-demo",
+  "version": "1.0.0",
+  "description": "Demo app to deploy with AWS App Runner",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
